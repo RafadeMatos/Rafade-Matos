@@ -5,7 +5,7 @@
 [![blog](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://openai.com/)
 
 ![Rafa Matos GitHub stats](https://github-readme-stats.vercel.app/api?username=RafadeMatos&show_icons=true&theme=react)
-[![Rafa Matos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RafadeMatos)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafa Matos](https://github-readme-stats.vercel.app/api/top-langs/?username=RafadeMatos&layout=compact)](https://github.com/RafadeMatos/github-readme-stats)
 
 ##  Technologies I use in my days
 <div align="center"
