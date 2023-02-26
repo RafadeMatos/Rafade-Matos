@@ -4,7 +4,8 @@
 
 [![blog](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://openai.com/)
 
-![Rafa Matos GitHub stats](https://github-readme-stats.vercel.app/api?username=RafadeMatos&show_icons=true&theme=highcontrast)
+![Rafa Matos GitHub stats](https://github-readme-stats.vercel.app/api?username=RafadeMatos&show_icons=true&theme=react)
+[![Rafa Matos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RafadeMatos)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  Technologies I use in my days
 <div align="center"
@@ -26,7 +27,7 @@ src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge
 <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <br><br>
 
-</div><br/>
+</div><br><br><BR/>
 
 Currently studying artificial intelligence and deep learning.
 
