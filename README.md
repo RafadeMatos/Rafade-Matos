@@ -7,8 +7,9 @@
 ![Rafa Matos GitHub stats](https://github-readme-stats.vercel.app/api?username=RafadeMatos&show_icons=true&theme=highcontrast)
 
 ##  Technologies I use in my days
-<div style="display: inline_block"
-
+<div align="center"
+<div style="display: inline_block"><br>
+<img align="left" height= "200" width= "200" alt="Me" src="https://i.pinimg.com/564x/ca/41/0e/ca410edb22e3711158ae3103a565296c.jpg">
 <img align="center" alt="Python" 
 src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="google collab" 
@@ -24,6 +25,7 @@ src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <br><br>
+
 </div><br/>
 
 Currently studying artificial intelligence and deep learning.
