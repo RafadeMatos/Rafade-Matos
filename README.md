@@ -1,6 +1,6 @@
 ## Well, hello There! My name is Rafael Matos.
 
-[![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/RafadeMatos)
+[![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafadeMatos/Rafade-Matos.git)
 
 [![blog](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://openai.com/)
 
