@@ -26,9 +26,6 @@ src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge
 <br><br>
 </div><br/>
 
-
-![Snake animation](https://github.com/RafadeMatos/RafadeMatos/blob/output/github-contribution-grid-snake.svg)
-
 Currently studying artificial intelligence and deep learning.
 
 ## ask me your questions:
