@@ -7,7 +7,7 @@
 ![Rafa Matos GitHub stats](https://github-readme-stats.vercel.app/api?username=RafadeMatos&show_icons=true&theme=cobalt)
 
 ##  Technologies I use in my days
-
+<div align:="center"
 <div style="display: inline_block"><br/>
 <img align="center" alt="Python" 
 src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -22,8 +22,10 @@ src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge
 <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <br><br>
 </div><br/>
+</div>
 
-![Snake animation](https://github.com/RafadeMatos/RafadeMatos/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 Currently studying artificial intelligence and deep learning.
