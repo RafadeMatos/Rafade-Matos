@@ -35,6 +35,6 @@ src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge
 
 Currently studying artificial intelligence and deep learning.
 
-## ask me your questions:
+## Ask me your questions:
 
 - Rafaeldematosf@gmail.com
