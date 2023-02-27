@@ -8,7 +8,7 @@
   </div> <br>
 </div>
 
-![Rafa Matos GitHub stats](https://github-readme-stats.vercel.app/api?username=RafadeMatos&show_icons=true&theme=react)
+![Rafa Matos GitHub stats](https://github-readme-stats.vercel.app/api?username=RafadeMatos&show_icons=true&theme=gotham)
 [![Tecnology](https://github-readme-stats.vercel.app/api/top-langs/?username=RafadeMatos)](https://github.com/RafaeldeMatos/github-readme-stats)
 
 ##  Technologies I use in my days
