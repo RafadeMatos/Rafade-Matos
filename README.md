@@ -33,7 +33,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
 <img align="center" alt="google collab" 
 src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">                                                             
 <img align="center" alt="Jupyter" 
-src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"> <BR>                                                                                                                                                                      
+src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"><BR>                                                                                                                                                                      
 <img align="center" alt="REACT" 
 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB=for-the-badge&logo=REACT">
 <img align="center" alt="SWIFT" 
