@@ -39,9 +39,10 @@ src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge
                                                                                                                                               
 <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>                          
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="REACTNATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img align="center" alt="REACTNATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><BR>
  
-<BR/>                                                                                                                                          
+<BR/>         
+                                                                                                                                            
 <img align="center" alt="SWIFT" 
 src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white=SWIFT">                                                                                                                               
 
