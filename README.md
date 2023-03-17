@@ -46,7 +46,7 @@ src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge
 <img align="center" alt="SWIFT" 
 src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white=SWIFT"> 
 
-<img align="center" alt="SWIFT" 
+<img align="center" alt="xcode" 
 src="https:"//img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
 
 ## Ask me Your Questions
