@@ -35,7 +35,11 @@ src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googleco
 <img align="center" alt="Jupyter" 
 src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
 <img align="center" alt="REACT" 
-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB=for-the-badge&logo=Jupyter">
+src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB=for-the-badge&logo=REACT">
+<img align="center" alt="SWIFT" 
+src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white=SWIFT">                                                                                                                          
+                                                                                                                          
+                                                                                                                          
                                                                                               
 
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
