@@ -1,4 +1,6 @@
+<div align="center">
 <img widht = 100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
+</div>
 
 [![typing SV6](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=WELL+HELLO+THERE!;+MY+NAME+IS+RAFAEL+MATOS;I'M+19+YEARS+OLD;GRADUATED+COMPUTER+SCIENCE;BE+WELCOME+IN+MY+GITHUB:%29)](https://git.io/typing-svg)
 
