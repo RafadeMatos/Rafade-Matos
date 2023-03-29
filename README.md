@@ -30,23 +30,19 @@ alt="Rafa de Matos github stats"/>
 ## Technologies I use in my days
 <div align="center"
 <div style="display: inline_block">
-<img align="center" alt="Python" 
-src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">                                                           
-<img align="center" alt="google collab" 
-src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">                                                             
-<img align="center" alt="Jupyter" 
-src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"><BR>                                                                      </BR>
-                                                                                              
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-                                                                                                                                              
-<img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>                          
+      <BR>        
+<img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="center" alt="DART" 
+src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">                                                                           <img align="center" alt="SWIFT" 
+src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white=SWIFT"><BR/>
+                                                                                                    
+<BR/>                                                                                                    
+                                                                                                                                                                       
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="REACTNATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><BR>
- 
-<BR/>         
-                                                                                                                                            
-<img align="center" alt="SWIFT" 
-src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white=SWIFT">                                                                   <img align="center" alt="XCODE" 
+<img align="center" alt="REACTNATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img align="center" alt="FLUTTER"
+src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">                                                            
+<img align="center" alt="XCODE" 
 src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"> 
 
 
