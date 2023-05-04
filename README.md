@@ -32,18 +32,8 @@ alt="Rafa de Matos github stats"/>
 <div style="display: inline_block">
       <BR>        
 <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="DART" 
-src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">                                                                           <img align="center" alt="SWIFT" 
-src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white=SWIFT"><BR/>
-                                                                                                    
-<BR/>                                                                                                    
-                                                                                                                                                                       
+<img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="REACTNATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="FLUTTER"
-src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">                                                            
-<img align="center" alt="XCODE" 
-src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"> 
 
 
 ## Ask me Your Questions
