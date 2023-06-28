@@ -15,25 +15,23 @@ alt="Rafa de Matos github stats"/>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=RafadeMatos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
-
+<div align="center"
+<div style="display: inline_block">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Raffitus.png" alt="TryHackMe">
+  <BR>
 <div align="center">
   <div style="display: inline_block>
+<BR>
      
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafayesklodowska?igshid=NTE5MzUyOTY=)
 [![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafadeMatos/Rafade-Matos.git)
 [![blog](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://openai.com/)
   </div> <br>
 </div>
-
 <div align="center">
-
+  
 ## Technologies I use in my days
 
-<div align="center"
-<div style="display: inline_block">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Raffitus.png" alt="TryHackMe">
-  <BR>
-  
 <div align="center"
 <div style="display: inline_block">
       <BR>        
