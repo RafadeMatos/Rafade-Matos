@@ -31,7 +31,7 @@ alt="Rafa de Matos github stats"/>
 <div align="center"
 <div style="display: inline_block">
       <BR>        
-  
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Raffitus.png" alt="TryHackMe">
 <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
