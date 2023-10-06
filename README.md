@@ -1,46 +1,49 @@
-<div align="center">
-<img widht = 100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#606078&height=120&section=header"/>
 
-[![typing SV6](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=WELL,+HELLO+THERE!;+I'AM+RAFA!+;GRADUATED+COMPUTER+SCIENCE;BE+WELCOME+IN+MY+GITHUB:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=606078&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rafa;I'm+20+years+old;I'm+from+Brazil;I+Graduated+Science+of+Computing;Be+Welcome+to+my+Github!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafadeMatos&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RafadeMatos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RafadeMatos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-<div align="center"
-<div style="display: inline_block">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Raffitus.png" alt="TryHackMe">
-  <BR>
-<div align="center">
-  <div style="display: inline_block>
-<BR>
-     
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafayesklodowska?igshid=NTE5MzUyOTY=)
-[![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafadeMatos/Rafade-Matos.git)
-[![blog](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://openai.com/)
-  </div> <br>
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RafadeMatos&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Rafa de Matos Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafadeMatos&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
+
+<div align="center"> 
+<a href="https://instagram.com/import_raffs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "Rafaeldematosf@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafael-ferreira-61a557207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+ ### Skills:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp; 
+
+
+### Studying in this moment:
+![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Dynamo](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)&nbsp;
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
+
+
 <div align="center">
-  
-## Technologies I use in my days
-
-<div align="center"
-<div style="display: inline_block">
-      <BR>        
-<img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-## Ask me Your Questions
-
-Rafaeldematosf@gmail.com
-
-<div align="center">
-<br><p align="center"><b>Visitors Counting</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RafadeMatos}/count.svg" /></p>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RafadeMatos}/count.svg" /></p> 
 <br>
 </div>
 
 
-<img widht = 100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9e6a90&height=120&section=footer"/>
 
